@@ -1,0 +1,34 @@
+body {
+  text-align:  center;
+  font-size: 1.5em;
+  font-family: 'Alegreya', serif;
+  background-color: rgb(190,255,190);
+}
+
+
+header {
+  border: 3px solid #000000;
+background-image: url("img/background.png");
+background-size:n cover;
+background-position: center;
+}
+
+#top {
+  color: #000000;
+}
+
+#tupac-poem img {
+  width: 150px;
+  height: 200px;
+}
+
+#shel-poem img{
+ width: 150px
+  height: 180px
+}
+
+#rosario-poem img{
+width: 10%;
+height: auto;
+
+}
